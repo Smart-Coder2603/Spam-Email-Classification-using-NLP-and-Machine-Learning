@@ -1,6 +1,4 @@
-# P3-Spam-Mail-Classification-by-NLP-and-ML
-
-<h1>Spam Email Classification Using NLP and ML</h1>
+# <h1>Spam Email Classification Using NLP and ML</h1>
 
 <p>This project uses Natural Language Processing (NLP) and Machine Learning (ML) to classify emails as spam or not spam. The aim is to accurately distinguish spam emails from legitimate ones by analyzing the content.</p>
 
