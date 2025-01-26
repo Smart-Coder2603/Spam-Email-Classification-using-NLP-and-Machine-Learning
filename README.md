@@ -17,12 +17,18 @@
     <li>Train the model:
         <pre><code>python src/model_training.py</code></pre>
     </li>
+     <li> Run the Model:
+        <pre><code>streamlit run spamDetector.py</code></pre>
+    </li>
 </ol>
 
 # For this project (Spam_classification_conda Python 3.10)
 <h2>How to execute the project</h2>
 <p>To run this project on python 3.10 version, follow these steps:</p>
 <ol>
+    <li>Install the required dependencies:
+        <pre><code>pip install -r requirements.txt</code></pre>
+    </li>
     <li> Run the Model:
         <pre><code>streamlit run spamDetector.py</code></pre>
     </li>
